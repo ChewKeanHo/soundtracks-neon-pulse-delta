@@ -8,13 +8,11 @@ delta. Sing-along lyrics are in the sub-titles.
 ```
 #electronicmusic #soundtrack #pop #rnb #femalevocal
 
-  File: Audios/Neon-Pulse-Delta.mp3
+  File: Audios/04_Neon-Pulse-Delta.mp3
   Size: 10309632        Blocks: 20136      IO Block: 4096   regular file
-Device: 253,2   Inode: 40769253    Links: 1
-Access: (0644/-rw-r--r--)  Uid: ( 1000/      u0)   Gid: ( 1000/      u0)
-Access: 2025-11-02 16:43:43.693064202 +0800
-Modify: 2025-11-02 16:43:57.529122157 +0800
-Change: 2025-11-02 16:43:57.529122157 +0800
+Access: 2025-11-20 11:31:01.149832739 +0800
+Modify: 2025-11-03 06:32:36.675925577 +0800
+Change: 2025-11-20 11:31:11.629868713 +0800
  Birth: 2025-07-20 11:53:43.290240039 +0800
 
 On Published Date: 2025-05-30
@@ -34,6 +32,7 @@ On YouTube since : 2025-07-12
 * [Agreed UDIO Privacy Policy](.internals/privacy-policy/Udio-Privacy-Policy.pdf)
 * [Agreed Vizzy Terms of Service](.internals/terms-of-services/Vizzy-Terms-of-Service.pdf)
 * [Agreed Vizzy Privacy Policy](.internals/privacy-policy/Vizzy-Privacy-Policy.pdf)
+* [20251030 UDIO Severances](https://github.com/ChewKeanHo/press-20251030-severances-from-udio)
 
 
 
@@ -54,11 +53,15 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : Neon Pulse Delta
-Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-neon-pulse-delta
-License: (Holloway) Chew, Kean Ho's Proprietary License
-Procure: Coming Soon
+Title: Neon Pulse Delta
+Creators: (Holloway) Chew, Kean Ho + UDIO
+Contact: hello@hollowaykeanho.com
+SKU: chewkeanho-soundtracks-neon-pulse-delta
+License: (Holloway) Chew, Kean Ho's Proprietary License (https://doi.org/10.5281/zenodo.13767361)
+Made On: 2025-10-29 (before 2025-10-30 terms of service changes)
+Made From: https://www.udio.com/
+Video made in: https://vizzy.io/
+Procure: https://github.com/ChewKeanHo/soundtracks-neon-pulse-delta
 --------------------------------------------------------------------------------
 ```
 
